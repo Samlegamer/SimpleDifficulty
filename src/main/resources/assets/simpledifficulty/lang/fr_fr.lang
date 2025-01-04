@@ -1,0 +1,97 @@
+death.attack.dehydration=%1$s est mort de déshydratation
+death.attack.hyperthermia=%1$s est mort d'hyperthermie
+death.attack.hypothermia=%1$s est mort d'hypothermie
+death.attack.parasites=%1$s est mort d'un parasite
+
+effect.cold_resist=Anti-froid
+effect.heat_resist=Anti-chaleur
+effect.hyperthermia=Hyperthermie
+effect.hypothermia=Hypothermie
+effect.parasites=Parasites
+effect.thirsty=Soif
+
+enchantment.chilling=Refroidissement
+enchantment.heating=Réchauffement
+
+enchantment.simpledifficulty.chilling.desc=Réduit la température du joueur lorsqu'il est porté
+enchantment.simpledifficulty.heating.desc=Augmente la température du joueur lorsqu'il est porté
+
+fluid.purifiedwater=Eau purifié
+
+itemGroup.tabSimpleDifficulty=SimpleDifficulty
+
+item.simpledifficulty:canteen_broken.name=Gourde cassée
+item.simpledifficulty:canteen_empty.name=Gourde vide
+item.simpledifficulty:canteen_normal.name=Gourde d'eau
+item.simpledifficulty:canteen_purified.name=Gourde d'eau purifié
+
+item.simpledifficulty:charcoal_filter.name=Filtre à charbon de bois
+
+item.simpledifficulty:ice_chunk.name=Morceau de glace
+
+item.simpledifficulty:ice_helmet.name=Casque de glace
+item.simpledifficulty:ice_chestplate.name=Plastron de glace
+item.simpledifficulty:ice_leggings.name=Jambière de glace
+item.simpledifficulty:ice_boots.name=Bottes de glace
+
+item.simpledifficulty:juice_apple.name=Jus de pomme
+item.simpledifficulty:juice_beetroot.name=Jus de betterave
+item.simpledifficulty:juice_cactus.name=Jus de cactus
+item.simpledifficulty:juice_carrot.name=Jus de carotte
+item.simpledifficulty:juice_chorus_fruit.name=Jus de chorus
+item.simpledifficulty:juice_golden_melon.name=Jus de pastèque scintillante
+item.simpledifficulty:juice_golden_apple.name=Jus de pomme d'or
+item.simpledifficulty:juice_golden_carrot.name=Jus de carotte dorée
+item.simpledifficulty:juice_melon.name=Jus de pastèque
+item.simpledifficulty:juice_pumpkin.name=Jus de citrouille
+
+item.simpledifficulty:magma_chunk.name=Morceau de magma
+
+item.simpledifficulty:purified_water_bottle.name=Fiole d'eau purifié
+
+item.simpledifficulty:thermometer.name=Thermomètre
+
+item.simpledifficulty:wool_helmet.name=Capuchon en laine
+item.simpledifficulty:wool_chestplate.name=Veste en laine
+item.simpledifficulty:wool_leggings.name=Pantalon en laine
+item.simpledifficulty:wool_boots.name=Chaussures en laine
+
+lingering_potion.effect.cold_resist_type=Potion persistante d'anti-froid
+lingering_potion.effect.long_cold_resist_type=Potion persistante d'anti-froid
+lingering_potion.effect.heat_resist_type=Potion persistante d'anti-chaleur
+lingering_potion.effect.long_heat_resist_type=Potion persistante d'anti-chaleur
+
+potion.effect.cold_resist_type=Potion d'anti-froid
+potion.effect.long_cold_resist_type=Potion d'anti-froid
+potion.effect.heat_resist_type=Potion d'anti-chaleur
+potion.effect.long_heat_resist_type=Potion d'anti-chaleur
+
+splash_potion.effect.cold_resist_type=Potion jetable d'anti-froid
+splash_potion.effect.long_cold_resist_type=Potion jetable d'anti-froid
+splash_potion.effect.heat_resist_type=Potion jetable d'anti-chaleur
+splash_potion.effect.long_heat_resist_type=Potion jetable d'anti-chaleur
+
+tile.simpledifficulty:campfire.name=Feu de camp
+tile.simpledifficulty:chiller.name=Refroidisseur
+tile.simpledifficulty:heater.name=Chauffage
+tile.simpledifficulty:purifiedwater.name=Eau purifié
+tile.simpledifficulty:rain_collector.name=Collecteur de pluie
+tile.simpledifficulty:spit.name=Brochet de feu de camp
+
+tipped_arrow.effect.cold_resist_type=Flèche d'anti-froid
+tipped_arrow.effect.long_cold_resist_type=Flèche d'anti-froid
+tipped_arrow.effect.heat_resist_type=Flèche d'anti-chaleur
+tipped_arrow.effect.long_heat_resist_type=Flèche d'anti-chaleur
+
+item.simpledifficulty:frost_rod.name=Bâton de givre
+item.simpledifficulty:frost_powder.name=Poudre de givre
+item.simpledifficulty:iron_canteen_broken.name=Gourde en fer cassée
+item.simpledifficulty:iron_canteen_empty.name=Gourde vide en fer
+item.simpledifficulty:iron_canteen_normal.name=Gourde d'eau en fer
+item.simpledifficulty:iron_canteen_purified.name=Gourde d'eau purifié en fer
+item.simpledifficulty:dragon_canteen_broken.name=Gourde en os de dragon cassée
+item.simpledifficulty:dragon_canteen_empty.name=Gourde vide en os de dragon
+item.simpledifficulty:dragon_canteen_normal.name=Gourde d'eau en os de dragon
+item.simpledifficulty:dragon_canteen_purified.name=Gourde d'eau purifié en os de dragon
+
+death.attack.inspirationscauldronburn=%1$s est mort en buvant de l'eau bouillante
